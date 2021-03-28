@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on OH</title>
-    <link>https://owenhael.com/categories/</link>
+    <link>https://www.owenhael.com/categories/</link>
     <description>Recent content in Categories on OH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Owen Hael 2021</copyright><atom:link href="https://owenhael.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Owen Hael 2021</copyright><atom:link href="https://www.owenhael.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
